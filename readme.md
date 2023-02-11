@@ -7,7 +7,7 @@ Exercicio do LeetCode: https://leetcode.com/problems/number-of-steps-to-reduce-a
 
 Link do github: https://github.com/LeoMeloL/AED1_LeetCode.git
 
-Link do Video: https://drive.google.com/drive/folders/1QRBdpfkoWE4j4_j9klTQECG0TP_I7wc6?usp=sharing
+Link do Video: https://drive.google.com/file/d/1wV5ZSZiRPEDzSPWlKx6ny09vaCwUtrDH/view
 
 Oque funciona: O código está funcionando completamente.
 
